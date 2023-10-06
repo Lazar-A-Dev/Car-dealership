@@ -1,0 +1,29 @@
+.glavni {
+    display: flex;
+    flex-direction: row;
+}
+
+.levi {
+    display: flex;
+    flex-direction: column;
+}
+
+.red1,
+.red2,
+.red3 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.mDiv,
+.bDiv,
+.moDiv {
+    display: flex;
+}
+
+.slika{
+    display: flex;
+    width: 15%;
+}
